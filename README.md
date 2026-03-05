@@ -62,9 +62,3 @@ The API returns proper HTTP responses such as:
 ## Testing
 
 All API endpoints were tested using **Postman** for both valid and invalid cases.
-
----
-
-## Author
-
-Student project demonstrating **Spring Boot REST CRUD operations using ResponseEntity**.
